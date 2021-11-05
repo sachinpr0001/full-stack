@@ -1,0 +1,21 @@
+h1,h2, h6{
+    color: green;
+}
+
+p {
+    color:red;
+}
+
+p.right {
+    color:teal;
+    text-align: right;
+}
+
+div:nth-child(2n+1) {
+    text-align: right;
+}
+
+#para3 {
+    font-family: Arial;
+    font-size: 22pt ;
+}
